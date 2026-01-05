@@ -1,6 +1,8 @@
 # Sirius-C
 Interferometric Detection of a Persistent Closure Phase Anomaly in the Sirius System (Sirius A) using VLT/GRAVITY Data
 
+January 4, 2026 By: Roshawn Marcell Valentino Terrell
+
 The 90-Year-Old Mystery
 For decades, astronomers and anthropologists have argued over the "Sirius Mystery." The Dogon people of Mali have long held an oral tradition that the Sirius system contains not just the main star (Sirius A) and the white dwarf (Sirius B), but a third, hidden companion they call Emme Ya ("The Sorghum Female").
 
