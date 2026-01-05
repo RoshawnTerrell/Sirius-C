@@ -27,13 +27,19 @@ The Smoking Gun: 23 Degrees of Chaos
 I ran a differential analysis on the Sirius dataset and compared it against a Control Star (Omicron Puppis) observed on the same night. The results were undeniable.
 
 Object: Omicron Puppis
+
 Observation type: Control Star
+
 Closure Phase (Wobble): 0.60°
+
 Verdict: STABLE
 
 Object: Sirius A
+
 Observation type: Target
+
 Closure Phase (Wobble): 23.53°
+
 Verdict: ANOMALOUS
 
 
