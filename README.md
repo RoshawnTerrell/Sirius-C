@@ -23,6 +23,7 @@ Closure Phase = 0°: The star is a single, symmetrical point of light.
 Closure Phase ≠ 0°: The light is being "tugged" or perturbed by a secondary source.
 
 The Smoking Gun: 23 Degrees of Chaos
+
 I ran a differential analysis on the Sirius dataset and compared it against a Control Star (Omicron Puppis) observed on the same night. The results were undeniable.
 
 Object: Omicron Puppis
