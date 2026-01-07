@@ -1,6 +1,8 @@
 # Sirius-C
 Interferometric Detection of a Persistent Closure Phase Anomaly in the Sirius System (Sirius A) using VLT/GRAVITY Data
 
+DOI: https://zenodo.org/records/18150924
+
 January 4, 2026 By: Roshawn Marcell Valentino Terrell
 
 The 90-Year-Old Mystery
